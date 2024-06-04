@@ -13,8 +13,8 @@ class Database{
       host: 'localhost',
       port: 3306,
       user: 'root',
-      password: 'jabra00123',
-      db: 'capstone_2024',
+      password: '*****',
+      db: 'DBNAME',
     ),
     );
 
